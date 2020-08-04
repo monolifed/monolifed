@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monolifed&hide_title=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monolifed&hide_title=true&layout=compact" />
 
 <!--
 **monolifed/monolifed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
